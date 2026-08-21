@@ -1,4 +1,4 @@
-const mensagem = "COLE A FRASE AQUI"
+const mensagem = "Estou aprendendo JavaScript!"
 console.log(mensagem)
 
 module.exports = mensagem
