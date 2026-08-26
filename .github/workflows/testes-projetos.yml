@@ -1,0 +1,17 @@
+name: Corretor de Projetos
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  projeto1-sistema-de-controle-de-pedidos:
+    name: projeto1-sistema-de-controle-de-pedidos
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/logica-de-programacao/projetos/projeto1-sistema-de-controle-de-pedidos
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm test

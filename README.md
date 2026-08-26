@@ -19,8 +19,8 @@ Complete os exercícios no tempo estimado.
 - Projeto Pessoal: Desenvolver um sistema com JavaScript utilizando os conteúdos DEMONSTRADOS EM AULA, que resolva um PROBLEMA PESSOAL.
 Previsão para - | Quantidade de Indivíduos: 1 pessoas (3-5 min de apresentação)
 - Prova Bimestral: previsão para -
-- **Projeto 1 - **<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 1 - Sistema de Controle de Pedidos**<br>
+Prazo de Entrega 1: - 28-ago (2,5 pt) | Prazo de Entrega 2: - 01-set (1,5 pt)
 - **Projeto 2 - **<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - **Projeto 3 - **<br>
