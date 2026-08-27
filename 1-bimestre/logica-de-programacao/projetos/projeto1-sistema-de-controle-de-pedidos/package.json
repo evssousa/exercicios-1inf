@@ -4,7 +4,7 @@
   "description": "Você acaba de entrar como **estagiário** em uma empresa de tecnologia chamada **TechStore Sistemas**.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
