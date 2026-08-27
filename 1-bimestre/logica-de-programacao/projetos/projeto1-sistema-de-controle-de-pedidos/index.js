@@ -2,7 +2,7 @@
 const cliente= "Mariana Silva"
 const cidade= "Fortaleza"
 const produto= "Notebook Pro"
-const categoria= "notebook"
+const categoria= "Notebook"
 
 const preco = 3500
 const quantidade= 2
@@ -42,7 +42,7 @@ console.log (resumo)
 
 // === FIM DO CÓDIGO =======================
 // === NÃO FAZER NADA ABAIXO DESSA LINHA ===
-module.exports = {}
+module.exports = {
   cliente,
   cidade,
   produto,
@@ -56,3 +56,4 @@ module.exports = {}
   valorFinal,
   troco,
   resumo
+}
