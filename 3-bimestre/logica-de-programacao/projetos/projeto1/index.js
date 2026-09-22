@@ -1,12 +1,12 @@
 // CRIE SUA SOLUÇÃO ABAIXO ================
-let cliente = "Mariana Silva"
-let cidade = "Fortaleza"
+const cliente = "Mariana Silva"
+const cidade = "Fortaleza"
 const produto = "Notebook Pro"
 const categoria = "Notebook"
-let preco = 3500
-let quantidade = 2
-let descontoPercentual = 10
-let valorPago = 7000
+const preco = 3500
+const quantidade = 2
+const descontoPercentual = 10
+const valorPago = 7000
 
 const subtotal = preco * quantidade
 const valorDesconto = subtotal * descontoPercentual / 100
