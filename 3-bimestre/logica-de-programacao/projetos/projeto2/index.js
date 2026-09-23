@@ -1,23 +1,29 @@
-
-const Cliente = AnaSouza
-const produto0= Tecladomecânico
-const preco = 200
-const Quantidade = 2
-const Estoque = 10
-const Valorpago = 400
-const valorDesconto = 0
+let Cliente = "AnaSouza"
+const produto= "Tecladomecânico"
+let preco = 200
+let Quantidade = 2
+let Estoque = 10
+let Valorpago = 400
+let valorDesconto = 0
 
 const subtotal = preco * quantidade
-const Desconto = 0%
-const Valorfinal = preco * quantidade
+const Desconto = 0
+const Valorfinal = subtotal - Desconto 
 const troco = subtotal - Valorfinal
 
-if (quantidade <= Estoque) {
-    console.log("Estoque disponível")
-} else {
-    console.log('Estoque indisponível')
+if (valorPago => valorFinal){
+    console.log(aprovado)
+} else{
+    console.log(insulficiente)
 }
 
+if (quantidade => Estoque) {
+    console.log("Estoque disponível")
+} else {
+    console.log("Estoque indisponível")
+}
+
+const resumo = `
 
 
 
@@ -25,7 +31,7 @@ if (quantidade <= Estoque) {
 
 
 
-
+`
 
 
 
@@ -66,6 +72,5 @@ module.exports = {
                                                     pagamentoStatus,
                                                         troco,
                                                             statusPedido,
-                                                                resumo
+                                                               resumo
                                                                 }
-                                                            }
